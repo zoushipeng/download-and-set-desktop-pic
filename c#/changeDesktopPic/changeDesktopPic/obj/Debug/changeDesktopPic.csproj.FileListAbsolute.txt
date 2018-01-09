@@ -1,0 +1,7 @@
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\bin\Debug\changeDesktopPic.exe.config
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\bin\Debug\changeDesktopPic.exe
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\bin\Debug\changeDesktopPic.pdb
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\obj\Debug\changeDesktopPic.csprojResolveAssemblyReference.cache
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\obj\Debug\changeDesktopPic.csproj.CoreCompileInputs.cache
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\obj\Debug\changeDesktopPic.exe
+F:\1something\壁纸\程序\c#\changeDesktopPic\changeDesktopPic\obj\Debug\changeDesktopPic.pdb
